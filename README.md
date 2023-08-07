@@ -1,3 +1,3 @@
 # LangChain Demo
 
-This is to demonstrate langchain using OpenAI and visualizing with Streamlit
+This is a dummy demo of LangChain using OpenAI and visualizing with Streamlit
